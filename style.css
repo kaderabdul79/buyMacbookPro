@@ -1,0 +1,30 @@
+.container{
+    width: 1000px;
+    margin: 0px auto;
+    padding: 10px 12px;
+    background-color: silver;
+}
+.container h2{
+    text-align: center;
+}
+#mac-1 img{
+    width: 400px;
+    margin: auto;
+    display: block;
+}
+#description-cart{
+    display: flex;
+}
+#description{
+    width: 750px;
+    margin-right: 50px;
+}
+#delivery{
+    display: flex;
+}
+#delivery-1,#delivery-2{
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+    border: 1px solid royalblue;
+}
